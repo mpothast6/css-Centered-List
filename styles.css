@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-color: #f69ccc;
+}
+
+
+.header{
+    background-color: #f2a65a;
+    padding: 40px;
+    
+   
+}
+
+.main{
+    background-color: #43a787;
+}
+
+
+.container{
+   max-width:600px;
+    margin: 0 auto;
+}
+.main{
+    background-color: lightblue;
+    padding: 40px;}
+    
